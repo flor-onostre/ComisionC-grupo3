@@ -1,0 +1,5 @@
+Alumno: Carrizo Eduardo
+Materia: MSII
+Comision: 4C
+Cuatrimestre: cuarto
+
