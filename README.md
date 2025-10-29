@@ -19,8 +19,6 @@ Practica 8 - GIT Ramas Fusión
   GitHub: [@deniseae](https://github.com/deniseae)  
   Agregué mi información como integrante del grupo.
 * **Nelson Romero**
-
-&nbsp;  GitHub: [@Nelson25RomeroTR](https://github.com/Nelson25RomeroTR/)
-
-&nbsp;  Integrante del equipo, me costo bastante, tuve que subir varias veces el txt.
+  GitHub: [@Nelson25RomeroTR](https://github.com/Nelson25RomeroTR/)
+  Integrante del equipo, me costo bastante, tuve que subir varias veces el txt.
 
