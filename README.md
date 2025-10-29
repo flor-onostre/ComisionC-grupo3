@@ -18,7 +18,7 @@ Practica 8 - GIT Ramas Fusión
 * **Denise Esperón**  
   GitHub: [@deniseae](https://github.com/deniseae)  
   Agregué mi información como integrante del grupo.
-  * **Claudia Lazarte**  
+* **Claudia Lazarte**  
   GitHub: [@Claroce08]
   Agregué mi información como integrante del grupo.
 * **Nelson Romero**
