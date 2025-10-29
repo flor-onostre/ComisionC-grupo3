@@ -4,5 +4,9 @@ Practica 8 - GIT Ramas Fusión
 ## Integrantes y aportes
 
 - **Sol Carnascari**  
-  GitHub: [@SolEli16](https://github.com/SolEli16)  
-  Aporté información de la alumna Carnascari.
+    GitHub: [@SolEli16](https://github.com/SolEli16)  
+    Aporté información de la alumna Carnascari.
+
+- **Florencia Onostre**  
+    GitHub: [@flor-onostre](https://github.com/flor-onostre)  
+    Líder, cree repositorio, cree rama-onostre con .txt, manejé merge.
