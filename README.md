@@ -18,3 +18,6 @@ Practica 8 - GIT Ramas Fusión
 * **Carrizo Eduardo**  
   GitHub: [@Educarri](https://github.com/Educarri)  
   Aporte, clone repositorio, cree rama, unifique ramas, y modifique README.md.
+* **Denise Esperón**  
+  GitHub: [@deniseae](https://github.com/deniseae)  
+  Agregué mi información como integrante del grupo.
