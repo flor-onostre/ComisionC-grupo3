@@ -9,8 +9,8 @@ Practica 8 - GIT Ramas Fusión
 * **Sol Carnascari**  
   GitHub: [@SolEli16](https://github.com/SolEli16)  
   Aporté información de la alumna Carnascari.
-* **Nelson Romeo**  
-  GitHub: [@Nelson25RomeroTR](https://github.com/flor-onostre)  
+* **Nelson Romero**  
+  GitHub: [@Nelson25RomeroTR](https://github.com/flor-onostre)
   Integrante del equipo, me costo bastante, tuve que subir varias veces el txt.
 * **Florencia Onostre**  
   GitHub: [@flor-onostre](https://github.com/flor-onostre)  
