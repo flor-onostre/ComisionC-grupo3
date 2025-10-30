@@ -24,4 +24,7 @@ Practica 8 - GIT Ramas Fusión
 * **Nelson Romero**
   GitHub: [@Nelson25RomeroTR](https://github.com/Nelson25RomeroTR/)
   Integrante del equipo, me costo bastante, tuve que subir varias veces el txt.
+* Melany Guzman**
+  GitHub:[melssguzman007](https://github.com/melssguzman007)
+  Aporte de Melany Guzman (mi presencia ,fin del aportexd)
 
