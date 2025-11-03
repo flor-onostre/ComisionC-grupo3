@@ -27,4 +27,6 @@ Practica 8 - GIT Ramas Fusión
 * Melany Guzman**
   GitHub:[melssguzman007](https://github.com/melssguzman007)
   Aporte de Melany Guzman (mi presencia ,fin del aportexd)
-
+* **Gallardo Facundo**  
+  GitHub: [@iLSEiRATiS](https://github.com/iLSEiRATiS)  
+  Aporte, clone repositorio, cree rama, unifique ramas, y modifique README.md.
